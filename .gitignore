@@ -1,0 +1,11 @@
+code/dataset/*
+code/notebooks/video/*
+
+
+*.tar
+*.ipynb_checkpoints
+*.mp4
+*.jpg
+*.png
+*.pth
+
